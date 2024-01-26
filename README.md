@@ -1,4 +1,4 @@
-# dust_predicting_footfall
+# Using recurrent neural networks to predict footfall
 
 This repository contains notebooks which lay out the steps for using an LSTM model to predict footfall in Melbourne.
 
